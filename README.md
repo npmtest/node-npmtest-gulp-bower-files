@@ -1,7 +1,10 @@
-# test coverage for  [gulp-bower-files (v0.2.7)](https://github.com/ck86/gulp-bower-files)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-bower-files.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-bower-files) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-bower-files.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-bower-files)
+# npmtest-gulp-bower-files
+
+#### test coverage for  [gulp-bower-files (v0.2.7)](https://github.com/ck86/gulp-bower-files)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-bower-files.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-bower-files) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-bower-files.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-bower-files)
+
 #### Build gulp.src() of your bower packages main files.
 
-[![NPM](https://nodei.co/npm/gulp-bower-files.png?downloads=true)](https://www.npmjs.com/package/gulp-bower-files)
+[![NPM](https://nodei.co/npm/gulp-bower-files.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-bower-files)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-bower-files/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-bower-files/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-bower-files/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-bower-files/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-bower-files%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-bower-files/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-bower-files%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-bower-files/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-bower-files/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-bower-files/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-bower-files/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-bower-files/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-bower-files/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-bower-files/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +36,7 @@
 
 {
     "author": {
-        "name": "Christopher Knötschke",
-        "email": "cknoetschke@gmail.com"
+        "name": "Christopher Knötschke"
     },
     "bugs": {
         "url": "https://github.com/ck86/gulp-bower-files/issues"
@@ -57,13 +65,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "cknoetschke",
-            "email": "cknoetschke@gmail.com"
+            "name": "cknoetschke"
         }
     ],
     "name": "gulp-bower-files",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ck86/gulp-bower-files.git"
